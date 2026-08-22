@@ -1,0 +1,23 @@
+# Core
+numpy>=1.24
+matplotlib>=3.7
+seaborn>=0.12
+
+# RL environment
+gymnasium>=0.29
+pygame>=2.5
+
+# Deep learning (diffusion planner + PPO)
+torch>=2.1
+einops>=0.7
+
+# Data / utilities
+tqdm>=4.65
+scipy>=1.11
+
+# RL training (PPO guided mode)
+stable-baselines3>=2.1
+
+# Video export (moving obstacle demo)
+imageio>=2.34
+imageio-ffmpeg>=0.5
