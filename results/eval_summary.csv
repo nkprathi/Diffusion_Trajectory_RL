@@ -1,0 +1,3 @@
+method,success_pct,mean_reward,mean_steps,mean_waypoints
+Diffusion open-loop,11.0,-47.67,16.8,9.7/16
+Diffusion + PPO,90.0,996.20,58.2,1.5/16
